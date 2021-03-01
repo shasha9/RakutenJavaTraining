@@ -56,7 +56,7 @@ public class ChemicalElement implements Comparable<ChemicalElement> {
 	}
 
 	
-	public int getAtomicNumber() {
+	public int getAtomicNumber(){
 		return atomicNumber;
 	}
 
