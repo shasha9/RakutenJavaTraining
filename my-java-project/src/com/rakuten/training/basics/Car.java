@@ -2,7 +2,7 @@ package com.rakuten.training.basics;
 public class Car extends Vehicle {
     
     public void start() {
-        System.out.println("<<<<<<<< Car STarting!! >>>>>>>>");
+        System.out.println("<<<<<<<< Car Starting!! >>>>>>>>");
     }
     
     public void stop() {
